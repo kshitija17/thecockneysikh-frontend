@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95477d47.css",
+    "main.js": "/static/js/main.14ded4f2.js",
+    "static/media/captures3.jpg": "/static/media/captures3.97bd25cd16322f523b7e.jpg",
+    "static/media/homepage.png": "/static/media/homepage.1a83901500e79419bd21.png",
+    "static/media/bbc2.jpg": "/static/media/bbc2.52de6f4b02ecd25f3a6f.jpg",
+    "static/media/event4.jpg.png": "/static/media/event4.jpg.69614727c223820c303c.png",
+    "static/media/event2.png": "/static/media/event2.234230a8b77411cc4dde.png",
+    "static/media/islin3.jpg": "/static/media/islin3.06896a25258fcb167698.jpg",
+    "static/media/bbc1.jpg": "/static/media/bbc1.74f603d52a72779b2388.jpg",
+    "static/media/nav-back.png": "/static/media/nav-back.5cfb47f073d005ba9546.png",
+    "static/media/book.jpg": "/static/media/book.56fe6c5b5497a1222606.jpg",
+    "static/media/map-back.jpg": "/static/media/map-back.4ec36c4be85484c4549c.jpg",
+    "static/media/map.jpg": "/static/media/map.6d373974134cab9ae53a.jpg",
+    "static/media/2.jpg": "/static/media/2.51c5cab95bea3022fc45.jpg",
+    "static/media/banner.jpg": "/static/media/banner.c3ba4c82b033d4d2ceb0.jpg",
+    "static/media/event.jpg": "/static/media/event.6e84c5849d4fd7925918.jpg",
+    "static/media/book2.jpg": "/static/media/book2.4b52ac27578d686cd42f.jpg",
+    "static/media/attire.jpg": "/static/media/attire.f3756a7b8f27ba62297a.jpg",
+    "static/media/archives.jpg": "/static/media/archives.b3f44e8d9f0228efb2bb.jpg",
+    "static/media/nav-search-icon.png": "/static/media/nav-search-icon.65474b2adc8a019e24c2.png",
+    "static/media/speakshead.jpg": "/static/media/speakshead.376fcb798cbb10f8caeb.jpg",
+    "static/media/islington-radio.jpg": "/static/media/islington-radio.fd88ab657141870e1a13.jpg",
+    "static/media/archives-head.jpg": "/static/media/archives-head.06f4f995cf0fdc71824c.jpg",
+    "static/media/speaks1.jpg": "/static/media/speaks1.915147317b810a277b44.jpg",
+    "static/media/bishopsgate.png": "/static/media/bishopsgate.6af62703b1c2b66d6453.png",
+    "static/media/logo-white.png": "/static/media/logo-white.540c82ee560ef33dd462.png",
+    "static/media/logo.png": "/static/media/logo.0e7e427a659d2fa1e0b8.png",
+    "static/media/instagram-color-icon.svg": "/static/media/instagram-color-icon.ff0d2e5b78a841746025447f6b4d0b33.svg",
+    "index.html": "/index.html",
+    "main.95477d47.css.map": "/static/css/main.95477d47.css.map",
+    "main.14ded4f2.js.map": "/static/js/main.14ded4f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95477d47.css",
+    "static/js/main.14ded4f2.js"
+  ]
+}
